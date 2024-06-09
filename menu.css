@@ -1,0 +1,41 @@
+.welcome{
+    font-size: 30px;  
+    color: aliceblue;
+    text-align: center;
+    font-weight: 600;
+}
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+hr{
+    color: white;
+}
+.menu{
+    color: aliceblue;
+    font-size: 24px;
+    text-align: center;
+}
+
+.card{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+img{
+    width: 100%;
+}
+.card-img-top{
+    height: 200px;
+}
+.container-fluid a{
+    color: white;
+}
+.container-fluid{
+    color: aliceblue;
+}
+
